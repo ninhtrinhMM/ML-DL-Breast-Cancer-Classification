@@ -1,2 +1,2 @@
-# ML/DL_Breast-Cancer-Classification
+# ML/DL-Breast-Cancer-Classification
 This presentation is my 3 weeks hard work which is made from a newbie, no more no less.
